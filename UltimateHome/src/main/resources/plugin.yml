@@ -1,0 +1,13 @@
+name: UltimateHome
+version: '1.0'
+main: me.kzlyth.ultimateHome.UltimateHome
+api-version: '1.21'
+load: STARTUP
+authors: [Kzlyth]
+description: A Plugin that gives you more features to EssentialsX Home Feature
+website: https://discord.gg/UzZRpeEREq
+commands:
+  home:
+    description: Open the homes GUI
+    usage: /home
+    permission: ultimatehome.use
